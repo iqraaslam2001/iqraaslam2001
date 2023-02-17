@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Iqra Aslam
-- 👀 I’m interested in Data Science, Project Management and analysis fields
+- 👀 I’m interested in Data Science, Project Management and Analytics fields
 - 🌱 I’m currently learning Statistics and Data Science
 - 📫 How to reach me : iqraaslam637@gmail.com
 
